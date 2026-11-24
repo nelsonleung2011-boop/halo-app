@@ -1,0 +1,6 @@
+{
+  "name": "HALO Emergency",
+  "description": "Bedside interactive clinical algorithm navigator for High-Acuity Low-Occurrence (HALO) emergencies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
